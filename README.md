@@ -16,18 +16,18 @@ Here's a quick demo of what our application does. *I highly recommend technical 
 
 **Search using voice or text:**
 
-![Home Page Search](https://https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/search.JPG)
+![Home Page Search](https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/search.JPG)
 
 **The results (yes! it's that simple):**
 
-![Result](https://https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/result.JPG)
+![Result](https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/result.JPG)
 
 *Please note that this version (v1) is just a proof of concept with limited functionalities. We invite you to expand upon it and help the community!*
 
 
 **These are the python functionalities we leveraged to build this application:-**
 
-![Python Functionalities](https://https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/lib.JPG)
+![Python Functionalities](https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/lib.JPG)
 
 
 **Business Use-cases**
@@ -35,17 +35,17 @@ Here's a quick demo of what our application does. *I highly recommend technical 
 1. **Quick results for Managers & Clients:**
 Reducing turnaround time to fetch results for non technical managers in product companies and clients in service based companies. Especially useful when outsourcing to foreign countries.
 
-![Usecase 1](https://https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/usecase1.jpg)
+![Usecase 1](https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/usecase1.jpg)
 
 2. **Integrate with Chat-Bots:**
 Enables customers to obtain answers to the common queries like product availability, prices, discounts, et al. Querying through these chatbots eliminates the need for technical analysts and reduces man-hours.
 
-![Chatbots](https://https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/chatbots-header.png)
+![Chatbots](https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/chatbots-header.png)
 
 3. **Improved Data Exploration for Analysts:**
 Equips analysts with ready-to-consume reports for the data exploration, enabling them to make faster and easier analyses
 
-![Visualizations](https://https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/bg-showcase-3.jpg)
+![Visualizations](https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/bg-showcase-3.jpg)
 
 
 **Getting Started**
@@ -67,6 +67,6 @@ You are free to play around with nql.py and modify it to query your own database
 
 **Team:** (L-R) Rekha Mohandass, Jashyant Sikhakholi, Harsh Seksaria, Vijay K Raghupati, Darshika Sharma
 
-![Team](https://https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/f.jpeg)
+![Team](https://github.com/harshseksaria1/Natural-Language-Database-Querying/blob/master/Natural%20Language%20Database%20Querying/images/f.jpeg)
 
 Location: Ovative Group, Minneapolis
